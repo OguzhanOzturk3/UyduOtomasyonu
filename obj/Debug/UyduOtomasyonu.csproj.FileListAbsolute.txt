@@ -1,0 +1,15 @@
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.Form1.resources
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.istasyon.resources
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.Properties.Resources.resources
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.csproj.GenerateResource.cache
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\source\repos\UyduOtomasyonu\bin\Debug\UyduOtomasyonu.exe.config
+C:\Users\oguzh\source\repos\UyduOtomasyonu\bin\Debug\UyduOtomasyonu.exe
+C:\Users\oguzh\source\repos\UyduOtomasyonu\bin\Debug\UyduOtomasyonu.pdb
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.exe
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.pdb
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.istasyon_liste.resources
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.uyduekleme.resources
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.uydulistele.resources
+C:\Users\oguzh\source\repos\UyduOtomasyonu\obj\Debug\UyduOtomasyonu.gorev.resources
